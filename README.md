@@ -53,3 +53,7 @@ Quasar is a fast and light-weight remote administration tool coded in C#. The us
   * Windows Server 2012
   * Windows 7
   * Windows Server 2008 R2
+  
+  Donate BTC: 16DaNrL6YWurKL8bHc1r1Nt1maQqLZ5Bgg
+  
+  Thank
